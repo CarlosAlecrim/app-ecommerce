@@ -28,6 +28,7 @@ Requisição
 
 PUT
 - /produtos
+
 Edita um produto na base de dados.
 
 Requisição
@@ -40,6 +41,6 @@ Edita um produto na base de dados.
 Requisição
 - {"id":"1"}
 
-* Post, Put e Delete - Em formato JSON.
+Post, Put e Delete - Em formato JSON.
 
 Se desejar contribuir faça um fork do projeto. Todos são bem vindos.
